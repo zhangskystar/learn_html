@@ -29,7 +29,7 @@
 * 按默认样式
 	* 块级元素 `block` : h1-h6 section div p ul ol li dl dt dd &hellip;
 	
-         	```可以设置宽高，独占一行，有规则形状```
+         ```可以设置宽高，独占一行，有规则形状```
 
 	* 行内元素 `inline` : span img em a b strong &hellip;
 	
