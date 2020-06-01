@@ -28,12 +28,15 @@
 #### 5、HTML 元素分类？
 * 按默认样式
 	* 块级元素 `block` : h1-h6 section div p ul ol li dl dt dd &hellip;
-         ```可以设置宽高，独占一行，有规则形状```
+	
+         	```可以设置宽高，独占一行，有规则形状```
 
 	* 行内元素 `inline` : span img em a b strong &hellip;
+	
 		```不可以设置宽高，不一定有规则形状```
 
 	* 内联块级元素 `inline-block` : select img
+	
 		```对内 block 有尺寸；对外 inline 不换行```
 
 * HTML5 新增元素的内容模型 `Content Model`
